@@ -1,0 +1,94 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #444
+}
+h1,h2,h3,h4,h5,h6,p{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	font-size: 2.5rem;
+	font-weight: 300;
+}
+.h1{
+	font-weight: 300;
+}
+h2{
+	font-size: 2rem;
+	font-weight: 300;
+}
+h3{
+	font-size: 1.75rem;
+	font-weight: 300;
+}
+h4{
+	font-size: 1.5rem;
+	font-weight: 400;
+}
+h5{
+	font-size: 1.5rem;
+	font-weight: 300;
+}
+.card-body .display-1{
+	font-size: 6.25rem;
+}
+
+.bg-na{
+	background-color: #3BB05C;
+}
+.fondo{
+    background: url(../img/sev.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.fondo-2{
+	background-color: rgba(0,0,0,.5);
+	height: 100vh;
+}
+.bg-fondo-s-2{
+	background-color: #9fde9c;
+}
+.bg-danger{
+	background-color: #C8695B !important;
+}
+.bg-s-3{
+	background-color: #85BFD6;
+}
+.bg-s-4{
+	background-color: #32723A;
+}
+.bg-s-5{
+	background-color: #DDF4E3;
+}
+.bg-primary{
+	background-color: #66B9CC !important;
+}
+
+
+.btn{
+	font-size: 1.1rem ;
+	font-weight: 300 ;
+}
+
+.iconos{
+	font-size: 2.25rem;
+}
+
+
+
+
+
+
+
+.card{
+	border: none;
+}
+.from-control{
+	border: 1px solid rgba(0,0,0,0.6);
+}
+
+
+.slider{
+	max-width: 400px;
+}
